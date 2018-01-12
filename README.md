@@ -5,4 +5,4 @@
 * item 2
 
 ## My bar 
-[Link](https://bx.in.th/)
+[Link BX TH](https://bx.in.th/)
