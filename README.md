@@ -1,4 +1,4 @@
-# biwkabp project
+# biwkab project
 
 # คำสั่งพื้นฐาน
 ## คำสั่ง CLI
