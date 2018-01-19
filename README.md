@@ -25,6 +25,3 @@
  
 ## My bar 
 [Link Ref.](https://tupleblog.github.io/use-git-part1/)
-
-
-biwja
