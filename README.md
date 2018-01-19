@@ -23,13 +23,5 @@
 * git pull ใช้ดึงความเปลี่ยนแปลงจาก remote มายัง local และรวมเข้าด้วยกัน (มีค่าเท่ากับ fetch+merge)
 * git log ใช้เพื่อดูว่า git repo มี commit อะไรแล้วบ้าง
  
-
-<<<<<<< HEAD
- test 5
- 
-=======
-
-
->>>>>>> 3396f3dc5e58c2e5e986d6236ad8eee4c7f0f0cd
 ## My bar 
 [Link Ref.](https://tupleblog.github.io/use-git-part1/)
